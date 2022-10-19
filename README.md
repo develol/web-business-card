@@ -1,5 +1,5 @@
 # web-business-card
-A simple animated Web business card in HTML5, CSS and JavaScript\
+[JavaScript] A simple animated Web business card in HTML5, CSS and JavaScript\
 **[Example](https://deve.lol/www/krevus/)**
 
 ***Font used: [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)***
